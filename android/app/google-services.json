@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902096208240",
+    "project_id": "chatapp2-dc82a",
+    "storage_bucket": "chatapp2-dc82a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902096208240:android:859db34a47b06e6c6ccfb5",
+        "android_client_info": {
+          "package_name": "am.kirsha.chatapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902096208240-k6tqqhcbkeat66ee7ghd03d9i6df5ll9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB7_tc9VQXDYTrzKnianpxmhBzkWirId8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902096208240-k6tqqhcbkeat66ee7ghd03d9i6df5ll9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
